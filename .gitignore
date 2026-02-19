@@ -1,0 +1,14 @@
+.env
+.venv/
+manage.py
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+staticfiles/
+media/
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+*.sql
